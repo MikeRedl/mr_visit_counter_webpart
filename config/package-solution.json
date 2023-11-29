@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "visit-counter-webpart-client-side-solution",
+    "id": "58531539-9d31-4ed1-b4d0-69df5f89d223",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/visit-counter-webpart.sppkg"
+  }
+}
